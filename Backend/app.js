@@ -8,6 +8,6 @@ connecttoDb();
 app.use(cors());
 
 app.get('/',(req,res)=>{
-    res.send("hello");
+    res.send("server started");
 })
 module.exports=app; 

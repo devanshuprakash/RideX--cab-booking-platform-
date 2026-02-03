@@ -8,4 +8,4 @@ function connecttoDb(){
     })
 }
 module.exports=connecttoDb; 
-// { useNewUrlParser: true, useUnifiedTopology: true } 
+{ useNewUrlParser: true, useUnifiedTopology: true } 
